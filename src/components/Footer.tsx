@@ -10,7 +10,7 @@ const Footer = () => {
           <div>
             <div className="flex items-center mb-6">
               <img 
-                src="/IMG_20250923_154745.jpg" 
+                src="/WhatsApp Image 2025-09-23 at 19.50.39 (2).jpeg" 
                 alt="Bolos Gourmet" 
                 className="h-16 w-16 object-contain rounded-full"
               />
